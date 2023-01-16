@@ -2,8 +2,11 @@
     <img src="https://user-images.githubusercontent.com/88911920/206695043-d1837d66-019f-442b-ac3c-3a91204f38c3.png">
 </div>
 
-<br>
-![ezgif-4-70fac11c91](https://user-images.githubusercontent.com/94343486/212728758-905f8ea2-36f4-4d71-bd74-bf8d11e90417.gif)
+<div align="center">
+
+![ezgif-4-986503999f](https://user-images.githubusercontent.com/94343486/212731577-ecccbdb2-9649-4703-b942-1e8118aad5de.gif)
+
+</div>
 
 <h1 align="center">Calculadora</h1>
 
