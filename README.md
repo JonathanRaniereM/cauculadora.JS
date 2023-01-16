@@ -1,6 +1,10 @@
+<h1 align="center">Calculadora JS</h1>
+
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/88911920/206695043-d1837d66-019f-442b-ac3c-3a91204f38c3.png">
+    <img width="260" src="https://user-images.githubusercontent.com/94343486/212734670-90a74a82-0f61-43dc-95c9-d7d54e3a3616.png">
 </div>
+
+<hr>
 
 <div align="center">
 
