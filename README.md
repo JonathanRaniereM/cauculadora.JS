@@ -3,9 +3,10 @@
 </div>
 
 <br>
-![gif-calculadora-computador](https://im4.ezgif.com/tmp/ezgif-4-70fac11c91.gif)
+![ezgif-4-70fac11c91](https://user-images.githubusercontent.com/94343486/212728758-905f8ea2-36f4-4d71-bd74-bf8d11e90417.gif)
 
 <h1 align="center">Calculadora</h1>
+
 
 <p align="center">
 Uma calculadora simples, responsiva para diferentes dispositivos, criada com HTML, CSS e JavaScript.
