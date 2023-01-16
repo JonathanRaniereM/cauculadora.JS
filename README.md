@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![ezgif-4-986503999f](https://user-images.githubusercontent.com/94343486/212731577-ecccbdb2-9649-4703-b942-1e8118aad5de.gif)
+<img width="470" src="https://user-images.githubusercontent.com/94343486/212736921-9fad6b19-4329-4e0a-be09-c1d45bb52836.gif">
 
 </div>
 
@@ -19,7 +19,7 @@
 Uma calculadora simples, responsiva para diferentes dispositivos, criada com HTML, CSS e JavaScript.
 </p>
 
-A calculadora foi proposta por meio de um atividade guiada no curso Programador Full Satck Javascript no modulo Javascript || - DOM. Com intuito de aplicar conhecimentos adquiridos com ênfase na manipulação do DOM (estilos,eventos,  atributos, elementos...)
+A calculadora foi proposta por meio de um atividade guiada no curso Programador Full Satck Javascript da One Bit Code no modulo Javascript || - DOM. Com intuito de aplicar conhecimentos adquiridos com ênfase na manipulação do DOM (estilos,eventos,  atributos, elementos...)
 
 ## Tecnologias
 ### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) 
