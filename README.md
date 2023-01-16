@@ -2,6 +2,9 @@
     <img src="https://user-images.githubusercontent.com/88911920/206695043-d1837d66-019f-442b-ac3c-3a91204f38c3.png">
 </div>
 
+<br>
+![gif-calculadora-computador](https://im4.ezgif.com/tmp/ezgif-4-70fac11c91.gif)
+
 <h1 align="center">Calculadora</h1>
 
 <p align="center">
