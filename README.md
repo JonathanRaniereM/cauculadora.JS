@@ -21,6 +21,14 @@ Uma calculadora simples, responsiva para diferentes dispositivos, criada com HTM
 
 A calculadora foi proposta por meio de um atividade guiada no curso Programador Full Satck Javascript da One Bit Code no modulo Javascript || - DOM. Com intuito de aplicar conhecimentos adquiridos com ênfase na manipulação do DOM (estilos,eventos,  atributos, elementos...)
 
+### Como rodar este projeto? 
+
+Você pode criar uma pasta em sua máquina e, dentro dela, clicar com botão direito e apertar 'GIT BASH HERE'. Com seu GIT aberto digite o seguinte código:
+
+<code>git clone https://github.com/JonathanRaniereM/cauculadora.JS.git </code>
+
+Pronto. Você terá a pasta deste projeto dentro da sua pasta criada. Agora é só abrir o arquivo index.html com o navegador e jogar.
+
 ## Tecnologias
 ### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) 
 HTML é a linguagem de marcação padrão para criação e estruturação de páginas da internet, consiste em uma série de elementos que define ao navegador o conteúdo e que significado ele tem.
