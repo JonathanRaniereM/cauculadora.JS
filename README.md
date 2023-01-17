@@ -27,7 +27,7 @@ Você pode criar uma pasta em sua máquina e, dentro dela, clicar com botão dir
 
 <code>git clone https://github.com/JonathanRaniereM/cauculadora.JS.git </code>
 
-Pronto. Você terá a pasta deste projeto dentro da sua pasta criada. Agora é só abrir o arquivo index.html com o navegador e jogar.
+Pronto. Você terá a pasta deste projeto dentro da sua pasta criada. Agora é só abrir o arquivo index.html com o navegador e começar a usar a cauculadora.
 
 ## Tecnologias
 ### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) 
